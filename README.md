@@ -7,6 +7,7 @@ My name is arden feldt. A Computer Science and Statisitcs and Operations Researc
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Julia]](https://julialang.org "Julia")  
 [Julia]: https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&labelColor=389827&logoColor=4163d9&logo=julia
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
