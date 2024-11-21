@@ -7,11 +7,11 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 
 | Project Name                        | Highlights                                                                          | Link                                                                 |
 |-------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Stats Department Scheduling Automator** | Generated schedules for UNC's Statistics Department.                               | [Repo](https://github.com/Arden-Feldt/STOR-Scheduler)               |
-| **Particle Simulation Image Masker** | Encoded custom grayscale images into HoomD particle simulations.                   | [Repo](https://github.com/Arden-Feldt/KlotsaLab)                    |
-| **Seating Chart**                   | Created optimized seating charts using linear integer programming with MiniZinc.  | [Repo](https://github.com/Arden-Feldt/Seating-Chart)                |
-| **Galaga-Themed Akari**             | Recreated the classic puzzle game Akari with a Galaga theme in JavaScript.         | [Repo](https://github.com/Arden-Feldt/Galaga-Themed-Akari)          |
-| **Public Housing Analysis**         | Final project for a data science class, implemented in R.                          | [Repo](https://github.com/Arden-Feldt/STOR320)                      |
+| **Stats Department Scheduler**      | Automated generating schedules for UNC's Statistics Department.                    | [STOR-Scheduler](https://github.com/Arden-Feldt/STOR-Scheduler)               |
+| **Particle Simulation Image Masker** | Encoded custom grayscale images into HoomD particle simulations.                   | [KlotsaLab](https://github.com/Arden-Feldt/KlotsaLab)                    |
+| **Seating Chart**                   | Created optimized seating charts using linear integer programming with MiniZinc.  | [Seating-Chat](https://github.com/Arden-Feldt/Seating-Chart)                |
+| **Galaga-Themed Akari**             | Recreated the classic puzzle game Akari with a Galaga theme in JavaScript.         | [Galaga-Themed-Akari](https://github.com/Arden-Feldt/Galaga-Themed-Akari)          |
+| **Public Housing Analysis**         | Final project for a data science class, implemented in R.                          | [STOR320](https://github.com/Arden-Feldt/STOR320)                      |
 
 
 
