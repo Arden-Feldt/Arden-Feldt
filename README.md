@@ -3,10 +3,17 @@ My name is arden feldt. A Computer Science and Statisitcs and Operations Researc
 
 
 #### Programming Languages
-<div id="badges"> 
-  <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
-  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
-  <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' />
-  <img     src='https://camo.githubusercontent.com/c3fd6682e8cca0f7c262a00f94ef0f65cadd0c8470669a2d7d6f3614e81b10c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465' />
-</div>
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Julia]](https://julialang.org "Julia")  
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
+<!--
+
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)
+
+-->
