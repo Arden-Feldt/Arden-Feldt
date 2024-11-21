@@ -5,7 +5,7 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 
 ## Featured Projects
 
-| Project Name                        | Highlights                                                                          | Link                                                                 |
+| Project Name                        | Overview                                                                          | Link                                                                 |
 |-------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | **Stats Department Scheduler**      | Automated generating schedules for UNC's Statistics Department.                    | [STOR-Scheduler](https://github.com/Arden-Feldt/STOR-Scheduler)               |
 | **Particle Simulation Image Masker** | Encoded custom grayscale images into HoomD particle simulations.                   | [KlotsaLab](https://github.com/Arden-Feldt/KlotsaLab)                    |
