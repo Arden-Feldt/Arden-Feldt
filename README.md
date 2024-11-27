@@ -1,4 +1,4 @@
-# Howdy, I'm Arden Feldt
+# Hello World! I'm Arden Feldt
 A Computer Science and Statistics and Operations Research double major at UNC-Chapel Hill.
 Interests include: Data Science, Data Engineering, Integer Programming, Optimization, and Operations Research.
 I've been coding since 8th grade, when I created a blackjack game on the command line. Seven years later, I'm still learning and coding every day— and loving it.
