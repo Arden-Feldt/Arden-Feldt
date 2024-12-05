@@ -7,7 +7,7 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 
 | Project Name                        | Overview                                                                          | Link                                                                 |
 |-------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Stats Department Scheduler**      | Automated generating schedules for UNC's Statistics Department.                    | [STOR-Scheduler](https://github.com/Arden-Feldt/STOR-Scheduler)               |
+| **Stats Department Scheduler**      | Automated generating schedules for UNC's Statistics Department. Tool uses integer programming and gurobi.                   | [STOR-Scheduler](https://github.com/Arden-Feldt/STOR-Scheduler)               |
 | **Particle Simulation Imager** | Encoded custom grayscale images into HoomD particle simulations.                   | [KlotsaLab](https://github.com/Arden-Feldt/KlotsaLab)                    |
 | **Seating Chart**                   | Created optimized seating charts using linear integer programming with MiniZinc.  | [Seating-Chat](https://github.com/Arden-Feldt/Seating-Chart)                |
 | **Galaga-Themed Akari**             | Recreated the classic puzzle game Akari with a Galaga theme.         | [Akari](https://github.com/Arden-Feldt/Galaga-Themed-Akari)          |
