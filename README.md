@@ -23,6 +23,25 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
+
+<p align="center">
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=22&duration=3000&pause=500&center=true&random=true&width=1000&lines=Statistics%2C+Computer+Science%2C+Applied+Mathematics;Artificial+Intelligence;Machine+Learning;Research;UNC-Chapel+Hill+Student;Self+Taught+Developer" alt="Typing SVG" />
+  </picture>
+</p>
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arden-Feldt&count_private=true&show_icons=true&line_height=27&theme=tokyonight"/>
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rmharp&count_private=true&show_icons=true&line_height=27&theme=tokyonight"/>
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=html,css">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css">
+    </picture>
+</div>
+
+
 <!--
 
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
