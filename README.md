@@ -13,8 +13,16 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 | **Galaga-Themed Akari**             | Recreated the classic puzzle game Akari with a Galaga theme.                       | [Akari](https://github.com/Arden-Feldt/Galaga-Themed-Akari)          |
 | **Public Housing Analysis**         | Final project for a data science class, implemented in R.                          | [STOR320](https://github.com/Arden-Feldt/STOR320)                      |
 
+<div align="left">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,jupyter%20notebook">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,jupyter%20notebook">
+    </picture>
+</div>
 
 
+
+<!--
 
 #### Programming Languages
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -23,18 +31,6 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
-
-
-<div align="left">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,jupyter%20notebook">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,jupyter%20notebook">
-    </picture>
-</div>
-
-
-
-<!--
 
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
