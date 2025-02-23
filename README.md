@@ -20,8 +20,6 @@ I've been coding since 8th grade, when I created a blackjack game on the command
     </picture>
 </div>
 
-
-
 <!--
 
 #### Programming Languages
