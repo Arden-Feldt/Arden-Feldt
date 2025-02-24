@@ -13,14 +13,14 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 | **Galaga-Themed Akari**             | Recreated the classic puzzle game Akari with a Galaga theme.                       | [Akari](https://github.com/Arden-Feldt/Galaga-Themed-Akari)          |
 | **Public Housing Analysis**         | Final project for a data science class, implemented in R.                          | [STOR320](https://github.com/Arden-Feldt/STOR320)                      |
 
-<!--
 <div align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,jupyter%20notebook,jupyter_notebook">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,jupyter%20notebook,jupyter_notebook">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,jupyter%20notebook,jupyter_notebook,Jupyter%20Notebook,Jupyter_Notebook">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,jupyter%20notebook,jupyter_notebook,Jupyter%20Notebook,Jupyter_Notebook">
     </picture>
 </div>
 
+<!--
 #### Programming Languages
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -32,5 +32,4 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)
-
 -->
