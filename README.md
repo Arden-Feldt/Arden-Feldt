@@ -16,8 +16,8 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 
 <div align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css">
     </picture>
 </div>
 
