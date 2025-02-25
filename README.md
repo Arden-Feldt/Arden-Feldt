@@ -13,8 +13,6 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 | **Galaga-Themed Akari**             | Recreated the classic puzzle game Akari with a Galaga theme.                       | [Akari](https://github.com/Arden-Feldt/Galaga-Themed-Akari)          |
 | **Public Housing Analysis**         | Final project for a data science class, implemented in R.                          | [STOR320](https://github.com/Arden-Feldt/STOR320)                      |
 
-![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arden-Feldt&hide=contribs,prs)
-
 <div align="left">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=1800">
