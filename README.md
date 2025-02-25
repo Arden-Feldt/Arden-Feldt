@@ -13,10 +13,11 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 | **Galaga-Themed Akari**             | Recreated the classic puzzle game Akari with a Galaga theme.                       | [Akari](https://github.com/Arden-Feldt/Galaga-Themed-Akari)          |
 | **Public Housing Analysis**         | Final project for a data science class, implemented in R.                          | [STOR320](https://github.com/Arden-Feldt/STOR320)                      |
 
+
 <div align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,jupyter%20notebook,jupyter_notebook,Jupyter%20Notebook,Jupyter_Notebook">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,jupyter%20notebook,jupyter_notebook,Jupyter%20Notebook,Jupyter_Notebook">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,Jupyter%20Notebook">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arden-Feldt&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,Jupyter%20Notebook">
     </picture>
 </div>
 
