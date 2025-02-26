@@ -11,7 +11,7 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 | [**Particle Simulation Imager**](https://github.com/Arden-Feldt/KlotsaLab)      | Encoded custom grayscale images into HoomD particle simulations.             |
 | [**Seating Chart**](https://github.com/Arden-Feldt/Seating-Chart)                   | Created optimized seating charts using Integer Programming with MiniZinc as a solver.  |
 | [**Galaga-Themed Akari**](https://github.com/Arden-Feldt/Galaga-Themed-Akari)             | Recreated the classic puzzle game Akari with a Galaga theme. |
-| [**Public Housing Analysis**]([https://github.com/Arden-Feldt/STOR320](https://www.linkedin.com/in/ardenfeldt/details/projects/1729978742880/single-media-viewer/?profileId=ACoAAEDYs_sBtGGKzNEEplh31psNyEJ-bM9RUKw))         | Final project for a data science class, implemented in R.                |
+| [**Public Housing Analysis**](https://www.linkedin.com/in/ardenfeldt/details/projects/1729978742880/single-media-viewer/?profileId=ACoAAEDYs_sBtGGKzNEEplh31psNyEJ-bM9RUKw)         | Final project for a data science class, implemented in R.                |
 
 <div align="left">
     <picture>
