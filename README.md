@@ -12,12 +12,6 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 | [**Seating Chart**](https://github.com/Arden-Feldt/Seating-Chart)                   | Created optimized seating charts using Integer Programming with MiniZinc as a solver.  |
 | [**Galaga-Themed Akari**](https://github.com/Arden-Feldt/Galaga-Themed-Akari)             | Recreated the classic puzzle game Akari with a Galaga theme. |
 | [**Public Housing Analysis**](https://github.com/Arden-Feldt/STOR320)        | Final [project](https://www.linkedin.com/in/ardenfeldt/details/projects/1729978742880/single-media-viewer/?profileId=ACoAAEDYs_sBtGGKzNEEplh31psNyEJ-bM9RUKw)  for a data science class, implemented in R.                |
-#### Programming Languages
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
 
 <picture>
@@ -26,6 +20,13 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 </picture>
 
 <!--
+
+#### Programming Languages
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
 <div align="left">
     <picture>
