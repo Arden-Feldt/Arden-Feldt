@@ -8,10 +8,10 @@ I've been coding since 8th grade, when I created a blackjack game on the command
 | Project Name                        | Overview                                                                                                                                          |
 |-------------------------------------|-----------------------------------------------------------------------------------|
 | [**Stats Department Scheduler**](https://github.com/Arden-Feldt/STOR-Scheduler)      | Automated generating schedules for UNC's Statistics Department. Tool uses Integer Programming, constraint based optimization, and as a solver: Gurobi.   |
-| [**Particle Simulation Imager**](https://github.com/Arden-Feldt/KlotsaLab)      | Encoded custom grayscale images into HoomD particle simulations.             |
-| [**Seating Chart**](https://github.com/Arden-Feldt/Seating-Chart)                   | Created optimized seating charts using Integer Programming with MiniZinc as a solver.  |
+| [**Particle Simulation Imager**](https://github.com/Arden-Feldt/KlotsaLab)      | Encodes custom grayscale images into HoomD particle simulations.             |
+| [**Seating Chart**](https://github.com/Arden-Feldt/Seating-Chart)                   | Creates optimized seating charts using Integer Programming with MiniZinc as a solver.  |
 | [**Galaga-Themed Akari**](https://github.com/Arden-Feldt/Galaga-Themed-Akari)             | Recreated the classic puzzle game Akari with a Galaga theme. |
-| [**Public Housing Analysis**](https://github.com/Arden-Feldt/STOR320)        | Final [project](https://www.linkedin.com/in/ardenfeldt/details/projects/1729978742880/single-media-viewer/?profileId=ACoAAEDYs_sBtGGKzNEEplh31psNyEJ-bM9RUKw)  for a data science class, implemented in R.                |
+| [**Public Housing Analysis**](https://github.com/Arden-Feldt/STOR320)        | Final [project](https://www.linkedin.com/in/ardenfeldt/details/projects/1729978742880/single-media-viewer/?profileId=ACoAAEDYs_sBtGGKzNEEplh31psNyEJ-bM9RUKw)  for a data science class (STOR320), implemented in R.                |
 
 
 <picture>
